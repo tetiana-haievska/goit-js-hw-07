@@ -1,1 +1,1 @@
-homework-4 JS
+homework-6 JS
