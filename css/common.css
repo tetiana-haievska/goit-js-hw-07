@@ -118,9 +118,11 @@ body {
   border-radius: 4px;
   width: 360px;
   height: 40px;
+  
 }
 
 .form-button {
+  margin-top: 8px;
   border-radius: 8px;
   padding: 8px 16px;
   width: 86px;
